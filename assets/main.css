@@ -306,3 +306,5 @@ footer .wrap{grid-template-columns:1fr}
 .twocol>*{min-width:0}
 .prose{min-width:0}
 .table-wrap{max-width:100%}
+
+.srclist{margin:8px 0 0;padding-left:20px}.srclist li{margin:4px 0;font-size:15px;overflow-wrap:anywhere}.srclist a{color:var(--teal-d);text-decoration:underline}
